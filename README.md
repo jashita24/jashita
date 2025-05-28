@@ -1,3 +1,2 @@
 this is my first project in git hub
-<br>
-myself jashita odal
+<br>myself jashita odal
